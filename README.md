@@ -1,3 +1,5 @@
+![Views Counter](https://views-counter.vercel.app/badge?pageId=hamzabinkhalid&leftColor=000000&rightColor=0adb3f&type=total&label=Total%20views&style=none) ![Views Counter](https://views-counter.vercel.app/badge?pageId=hamzabinkhalid&leftColor=000000&rightColor=0adb3f&type=daily&label=Views%20today&style=none) ![Views Counter](https://views-counter.vercel.app/badge?pageId=hamzabinkhalid&leftColor=000000&rightColor=0adb3f&type=unique&label=Unique%20views&style=none)
+
 # 💫 About Me:
 Results-driven Full Stack Developer with expertise in Python, Java and AWS. Passionate about building scalable, secure, and high-performing applications using modern cloud-based technologies. Experienced in Test-Driven Development, microservices architecture, and Agile methodologies, with a track record of proactive problem solving. A collaborative leader with a knack for mentoring and driving innovation.<br>🔍 Always seeking inventive solutions to complex challenges.<br>💡 Committed to continuous learning and professional growth.<br>📍 Based in Sheffield, United Kingdom.
 
